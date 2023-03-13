@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     // begin
     // numeric luas,p,1
-    double luas, p, l;
+    double luas, p, 1;
     //display 'masukan panjangnya = '
     cout << "masukan panjangnya = " ;
     // accept p
@@ -12,10 +12,10 @@ int main(){
     // display 'masukan lebarnya = '
     cout << "masukan lebarnya = ";
     // accept 1
-    cin >> l;
+    cin >> 1;
     // compute luas = p,1
-    luas = p*l;
+    luas = p*1;
     // display "luasnya = " + luas
-    cout << "ini hasil: " << luas;
+    cout <<
     // end
-    }
+}
